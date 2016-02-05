@@ -2,6 +2,6 @@
 
 int main(){
 
-	printf("ujjala supreme\n");
+	printf("supreme\n");
 
-}
+}	return 0;
